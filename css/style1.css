@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  #flag-color-bg1{
+    width: 400px;
+    height: 80px;
+    background-color:orange;
+  }
+  #flag-color-bg2{
+    width: 400px;
+    height: 80px;
+    background-color:white;
+  }
+  #flag-color-bg3{
+    width: 400px;
+    height: 80px;
+    background-color:green;
+  }

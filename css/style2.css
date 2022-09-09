@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  #romanian-flag-bg{
+    height: 240px;
+    width: 133px;
+    background-color: yellow;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-left: solid 133px blue;
+    border-right: solid 133px red;
+
+  }

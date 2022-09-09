@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  header{
+    background-color: black;
+    color: white;
+   
+  }
+  nav{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+  }
+  #nav-link{
+    text-decoration: none;
+    color: white;
+  }
+  
